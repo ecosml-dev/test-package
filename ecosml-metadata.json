@@ -2,7 +2,10 @@
   "id": "1978f288-5dd9-48dd-aa15-214be345fe16",
   "name": "ecosml-dev/test-package",
   "overview": "Let us see what happens. ",
-  "keywords": [],
+  "keywords": [
+    "red oak",
+    "white oak"
+  ],
   "theme": [],
   "family": [],
   "specific": [],
